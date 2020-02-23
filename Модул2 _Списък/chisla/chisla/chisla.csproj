@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22A93120-B9D5-4673-8FB3-824958C54FB5}</ProjectGuid>
+    <ProjectGuid>{CB26531F-7647-48DC-BE46-95FCF7EA3739}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Числа</RootNamespace>
-    <AssemblyName>Числа</AssemblyName>
+    <RootNamespace>chisla</RootNamespace>
+    <AssemblyName>chisla</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
